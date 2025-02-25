@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+#voltarpagina3 {
+    text-align: center;
+    background-color: red;
+    font-size: 100px;
+}
+
+.paginainteira3 {
+    text-align: center;
+}
+
+.preto {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.verde {
+    background-color: green;
+    padding: 100px;
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.verde1 {
+    background-color: green;
+    padding: 100px;
+    margin: 20px;
+    width: 50%;
+}
