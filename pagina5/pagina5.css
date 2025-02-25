@@ -1,0 +1,33 @@
+body {
+    background-color: pink;
+}
+
+#voltarpagina5 {
+    text-align: center;
+    background-color: green;
+    font-size: 100px;
+}
+
+.paginainteira5 {
+    text-align: center;
+}
+
+.rosa {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.marrom {
+    background-color: brown;
+    padding: 100px;
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.alongar {
+    padding-top: 300px;
+}
