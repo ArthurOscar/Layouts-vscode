@@ -1,7 +1,15 @@
-.azul{
-    background-color: blue;
+.paginainteira2{
+    text-align: center;
 }
-.amarelo{
+.azul{
+    background-color: green;
+    padding: 100px;
+}
+.amarela{
     background-color: yellow;
-    padding: 20px;
+    padding: 100px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
 }
