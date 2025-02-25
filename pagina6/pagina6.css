@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+#voltarpagina6 {
+    text-align: center;
+    background-color: green;
+    font-size: 100px;
+}
+
+.paginainteira6 {
+    text-align: center;
+}
+
+.preto {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.azul {
+    background-color: blue;
+    padding: 100px;
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.alongar {
+    padding-top: 300px;
+}
