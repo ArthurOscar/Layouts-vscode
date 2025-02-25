@@ -1,8 +1,17 @@
+body{
+    background-color: green;
+}
+#voltarpagina2{
+    text-align:center;
+    background-color: red;
+    font-size: 100px;
+}
 .paginainteira2{
     text-align: center;
 }
 .azul{
-    background-color: green;
+    max-width: 700px;
+    margin: 0 auto;
     padding: 100px;
 }
 .amarela{
