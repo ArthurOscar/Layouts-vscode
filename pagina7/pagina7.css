@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;
+    background-color: white;
 }
 
 #voltarpagina7 {
@@ -12,14 +12,14 @@ body {
     text-align: center;
 }
 
-.amarelo {
+.branco {
     max-width: 720px;
     margin: 0 auto;
     padding: 100px;
 }
 
-.azul {
-    background-color: blue;
+.preto {
+    background-color: black;
     padding: 100px;
     margin: 20px;
 }
@@ -28,9 +28,10 @@ body {
     display: flex;
 }
 
-.azul1 {
-    background-color: blue;
-    padding: 100px;
-    margin: 20px;
-    width: 50%;
+.alongar {
+    padding-top: 300px;
+}
+
+.esticar{
+    width: 101%;
 }

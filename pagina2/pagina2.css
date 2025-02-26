@@ -1,24 +1,36 @@
-body{
-    background-color: green;
+body {
+    background-color: black;
 }
-#voltarpagina2{
-    text-align:center;
+
+#voltarpagina2 {
+    text-align: center;
     background-color: red;
     font-size: 100px;
 }
-.paginainteira2{
+
+.paginainteira2 {
     text-align: center;
 }
-.azul{
-    max-width: 700px;
+
+.preto {
+    max-width: 720px;
     margin: 0 auto;
     padding: 100px;
 }
-.amarela{
-    background-color: yellow;
+
+.verde {
+    background-color: green;
     padding: 100px;
     margin: 20px;
 }
-.flex{
+
+.flex {
     display: flex;
+}
+
+.verde1 {
+    background-color: green;
+    padding: 100px;
+    margin: 20px;
+    width: 50%;
 }

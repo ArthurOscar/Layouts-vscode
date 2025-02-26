@@ -1,10 +1,10 @@
 body {
-    background-color: black;
+    background-color: red;
 }
 
 #voltarpagina3 {
     text-align: center;
-    background-color: red;
+    background-color: blue;
     font-size: 100px;
 }
 
@@ -12,14 +12,14 @@ body {
     text-align: center;
 }
 
-.preto {
+.vermelho {
     max-width: 720px;
     margin: 0 auto;
     padding: 100px;
 }
 
-.verde {
-    background-color: green;
+.preto {
+    background-color: black;
     padding: 100px;
     margin: 20px;
 }
@@ -28,9 +28,6 @@ body {
     display: flex;
 }
 
-.verde1 {
-    background-color: green;
-    padding: 100px;
-    margin: 20px;
-    width: 50%;
+.alongar {
+    padding-top: 300px;
 }

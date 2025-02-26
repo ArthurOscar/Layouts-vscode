@@ -1,10 +1,10 @@
 body {
-    background-color: red;
+    background-color: pink;
 }
 
 #voltarpagina4 {
     text-align: center;
-    background-color: blue;
+    background-color: green;
     font-size: 100px;
 }
 
@@ -12,14 +12,14 @@ body {
     text-align: center;
 }
 
-.vermelho {
+.rosa {
     max-width: 720px;
     margin: 0 auto;
     padding: 100px;
 }
 
-.preto {
-    background-color: black;
+.marrom {
+    background-color: brown;
     padding: 100px;
     margin: 20px;
 }

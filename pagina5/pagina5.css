@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-color: black;
 }
 
 #voltarpagina5 {
@@ -12,14 +12,14 @@ body {
     text-align: center;
 }
 
-.rosa {
+.preto {
     max-width: 720px;
     margin: 0 auto;
     padding: 100px;
 }
 
-.marrom {
-    background-color: brown;
+.azul {
+    background-color: blue;
     padding: 100px;
     margin: 20px;
 }
