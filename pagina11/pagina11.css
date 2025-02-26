@@ -1,0 +1,40 @@
+body {
+    background-color: yellow;
+}
+
+#voltarpagina11 {
+    text-align: center;
+    background-color: blue;
+    font-size: 100px;
+}
+
+.paginainteira11 {
+    text-align: center;
+}
+
+.amarelo {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.marrom {
+    background-color: brown;
+    padding: 100px;
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.alongar {
+    height: 220px;
+}
+
+.esticar{
+    width: 50%;
+}
+.esticarcombo{
+    width: 100%;
+}
