@@ -1,0 +1,37 @@
+body {
+    background-color: pink;
+}
+
+#voltarpagina9 {
+    text-align: center;
+    background-color: blue;
+    font-size: 100px;
+}
+
+.paginainteira9 {
+    text-align: center;
+}
+
+.rosa {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.vermelho {
+    background-color: red;
+    padding: 100px;
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.alongar {
+    padding-top: 300px;
+}
+
+.esticar{
+    width: 101%;
+}
