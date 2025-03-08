@@ -1,0 +1,41 @@
+body {
+    background-color: red;
+}
+
+#voltarpagina15 {
+    text-align: center;
+    background-color: blue;
+    font-size: 100px;
+}
+
+.paginainteira15 {
+    text-align: center;
+}
+
+.vermelho {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.verde {
+    background-color: green;
+    padding: 100px;
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.alongar {
+    padding-top: 300px;
+}
+
+.esticar {
+    width: 50%
+}
+
+.verde-alongar{
+    padding-top: 300px;
+}
